@@ -16,3 +16,4 @@
         <url-pattern>/webapi/*</url-pattern> <!-- Not happy with the /webapi/ infix? Change it here -->
     </servlet-mapping>
 </web-app>
+</web-app>
